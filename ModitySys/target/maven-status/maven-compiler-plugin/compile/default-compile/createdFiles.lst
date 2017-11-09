@@ -1,0 +1,14 @@
+com\modity\dao\BaseDao.class
+com\modity\entity\Cargo.class
+com\modity\dao\CargoDao.class
+com\modity\service\CargoService.class
+com\modity\entity\UserInfo.class
+com\modity\dao\UserDao.class
+com\modity\web\CargoAction.class
+com\modity\convertion\IntConvter.class
+com\modity\service\UserService.class
+com\modity\web\UserAction.class
+com\modity\entity\Indent.class
+com\modity\entity\Carltem.class
+com\modity\web\CarAction.class
+com\modity\entity\User.class
